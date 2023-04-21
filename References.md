@@ -1,5 +1,6 @@
 # poster-references
 this list shows all references used for the poster 
+
 [1]	W. Chen, J. Liang, Z. Yang, and G. Li, ‘A Review of Lithium-Ion Battery for Electric Vehicle Applications and Beyond’, Energy Procedia, vol. 158, pp. 4363–4368, 2019.
 
 [2]	K. W. E. Cheng, B. P. Divakar, H. Wu, K. Ding, and H. F. Ho, ‘Battery-Management System (BMS) and SOC Development for Electrical Vehicles’, IEEE Transactions on Vehicular Technology, vol. 60, no. 1, pp. 76–88, 2011

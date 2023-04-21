@@ -1,5 +1,5 @@
-# poster-references
-this list shows all references used for the poster 
+# Project-references
+this list shows all references used for the project
 
 [1]	W. Chen, J. Liang, Z. Yang, and G. Li, ‘A Review of Lithium-Ion Battery for Electric Vehicle Applications and Beyond’, Energy Procedia, vol. 158, pp. 4363–4368, 2019.
 
